@@ -1,5 +1,5 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: LearnPainLess Forum
+name: Ask Forum
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Forum created to ask answers for questions.
@@ -19,7 +19,7 @@ url: forum.learnpainless.com
 exclude: [.gitignore]
 
 # The disqus shortname for your forum
-disqus_shortname: edablogs
+disqus_shortname: learn-pain-less
 
 # The public key for your disqus application
-disqus_publickey: Cokk183cjZospEtxgby0sYxcIichcHxKByiAUfLYehtQehk6JkQiUwwWiPKKDlQJ
+disqus_publickey: OOj7el36J2KUHKsDgpLRSQcZfii4luaPRocneBGqKEF8gtuBJqGnmViXBoOFLHWt
